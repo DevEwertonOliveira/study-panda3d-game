@@ -1,4 +1,6 @@
-# Needs to python in your machine
+# Running test game
+
+- [x] focus in learning python and panda3d
 
 and just uses the following command:
 
